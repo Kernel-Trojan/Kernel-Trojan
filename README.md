@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER — replace with your own image or keep the wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Satyam%20Suman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=18&descColor=a0a0c0" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Satyam%20Suman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20AI%20%7C%20IIT%20Gandhinagar&descAlignY=58&descSize=18&descColor=a0a0c0" width="100%"/>
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
@@ -24,11 +24,11 @@
 > whoami
 ```
 
-I'm a **Full-Stack Developer** based in 🌏 **Your City**, obsessed with building things that are fast, clean, and actually useful. I lean toward backend-heavy work but I don't flinch at the frontend.
+I'm a **B.Tech student in Artificial Intelligence** at 🎓 **IIT Gandhinagar**, interested in building intelligent systems — from research-level ideas to things that actually run in production.
 
 - 🔭 Currently working on **[Your Current Project](https://github.com/Kernel-Trojan/project)**
-- 🌱 Learning **Rust / Go / whatever you're learning**
-- 💬 Ask me about **Node.js, React, system design, or anything you're stuck on**
+- 🧠 Exploring **Deep Learning, Computer Vision, and ML Systems**
+- 💬 Ask me about **Python, ML/DL, or anything AI-related**
 - ⚡ Fun fact: I debug better at 2am than 2pm
 
 ---
@@ -37,25 +37,25 @@ I'm a **Full-Stack Developer** based in 🌏 **Your City**, obsessed with buildi
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend**
+**AI / ML**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Backend & Infrastructure**
+**Tools & Infra**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -101,6 +101,6 @@ I'm a **Full-Stack Developer** based in 🌏 **Your City**, obsessed with buildi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"In God we trust; all others must bring data." — W. Edwards Deming*
 
 </div>
