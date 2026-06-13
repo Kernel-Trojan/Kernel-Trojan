@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Satyam%20Suman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20AI%20%7C%20IIT%20Gandhinagar&descAlignY=58&descSize=18&descColor=a0a0c0" width="100%"/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-suman)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satyamsuman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-suman2008/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kerneltrojan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam.suman2008@gmail.com)
 
 <br/>
 
@@ -26,8 +26,8 @@
 I'm a **B.Tech student in Artificial Intelligence** at 🎓 **IIT Gandhinagar**. I build things at the intersection of AI and security — and I'm always in the middle of learning something new.
 
 - 🌱 Learning **DSA and Machine Learning**
-- 🔐 Interested in **Cybersecurity** — where AI and offensive/defensive security meet
-- 💬 Ask me about **Python, ML, or anything AI/Security-related**
+- 🔐 Interested in **Cybersecurity** and **Artificial Intelligence**
+- 💬 Always working on something cool.
 
 ---
 
@@ -93,6 +93,6 @@ I'm a **B.Tech student in Artificial Intelligence** at 🎓 **IIT Gandhinagar**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"In God we trust; all others must bring data." — W. Edwards Deming*
+*"Given enough eyeballs, all bugs are shallow." — Linus Torvalds*
 
 </div>
